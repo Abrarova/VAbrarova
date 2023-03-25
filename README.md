@@ -7,7 +7,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://vk.com/vika.aurum">
-		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK"/>
+		<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
 	</a>
 	<a href="https://t.me/Gaunt_W">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -17,7 +17,7 @@
 ### About me
 - 🔬 I’m currently learning **Web3, GameDev**
 - 🎨 Know about my experiences and creative projects [0_0](cv-link)
-- 💬 Reach me by [Telegram]("https://t.me/Gaunt_W"), [email](mailto:vika.argent@gmail.com)
+- 💬 Reach me by [Telegram](https://t.me/Gaunt_W), [email](mailto:vika.argent@gmail.com)
 - 🎙️ I speak Russian and English
 
 ### Languages and tools
