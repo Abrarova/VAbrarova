@@ -36,9 +36,9 @@
    
 ### My stat
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Abrarova=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Abrarova=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Abrarova=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrarova&theme=omni"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abrarova&theme=omni"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abrarova&theme=omni"/>
 </div>
 
 ---
